@@ -44,8 +44,9 @@ I am confident and I believe that my skills and motivation will lead me to the t
 + Working in VS Code, Sublime text, Visual Studio on .NET Framework
 + C#
 + C++
++ Node.js
 #### Soft:
-+ English C1 Advanced
++ English C1 Advance
 
 ![Image must be here](https://i.imgur.com/QrfDjGB.png)
 
