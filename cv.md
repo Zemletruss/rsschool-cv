@@ -46,7 +46,7 @@ I am confident and I believe that my skills and motivation will lead me to the t
 + C++
 + Node.js
 #### Soft:
-+ English C1 Advance
++ English C1 Advanced
 
 ![Image must be here](https://i.imgur.com/QrfDjGB.png)
 
